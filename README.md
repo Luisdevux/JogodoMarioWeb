@@ -1,2 +1,4 @@
 # JogodoMarioWeb
-Mini game criado com html, css e js para treino em desenvolvimento web.
+Mini game criado para treino em desenvolvimento web.
+
+Esse projeto foi criado com a intenção de aprender e treinar desenvolvimento web, usando html, css e javascript.
