@@ -9,5 +9,5 @@ Modo de Jogo:
 
 Para testar o mini game, os comando são bem simples: 
 Assim que abrir a pagina web, o jogo já vai estar rodando.
-para pular, use espaço.
+Para pular, use espaço.
 Quando perder, reinicie a página com F5 e o jogo reiniciará.
