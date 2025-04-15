@@ -13,3 +13,5 @@ Para testar o mini game, os comando são bem simples:
 Assim que abrir a pagina web, o jogo já vai estar rodando.
 Para pular, use espaço.
 Quando perder, reinicie a página com F5 e o jogo reiniciará.
+
+Ou, de forma mais fácil: https://luisdevux.github.io/JogodoMarioWeb/
